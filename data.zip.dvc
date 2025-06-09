@@ -1,9 +1,9 @@
 outs:
-- md5: fa5b71deb96f19c8be14ea72d009c5cf
-  size: 856010
+- md5: 76012e5fd775f08fb696874a73cb7749
+  size: 2467987
   hash: md5
   path: data.zip
   cloud:
     storage:
-      etag: 0883eab3fbabe58d031001
-      version_id: '1749506600006915'
+      etag: 08a38c83f8b5e58d031001
+      version_id: '1749509277271587'
