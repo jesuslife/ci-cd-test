@@ -3,3 +3,7 @@ outs:
   size: 151820584
   hash: md5
   path: weights.zip
+  cloud:
+    storage:
+      etag: 08ce84da80ace58d031001
+      version_id: '1749506611118670'
