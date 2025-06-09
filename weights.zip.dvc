@@ -1,0 +1,5 @@
+outs:
+- md5: 462b6c967cbf05bb84bef97b64fb2d73
+  size: 151820584
+  hash: md5
+  path: weights.zip
